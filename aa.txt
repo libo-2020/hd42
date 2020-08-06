@@ -1,1 +1,5 @@
 git welcome had42!!
+<<<<<<< HEAD
+=======
+iiiiiiiiiiiiiiiiiii
+>>>>>>> test

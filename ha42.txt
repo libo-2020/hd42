@@ -6,9 +6,13 @@ hello word
 hello word
 hhhhhhhhhh
 <<<<<<< HEAD
+<<<<<<< HEAD
 libobo hello
 =======
 888888
 >>>>>>> test1
 888888
 99999
+=======
+libo ninhao
+>>>>>>> test

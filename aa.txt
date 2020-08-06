@@ -1,4 +1,5 @@
 git welcome had42!!
+<<<<<<< HEAD
 git welcome had42!!
 git welcome had42!!
 git welcome had42!!
@@ -11,3 +12,9 @@ git welcome had42!!
 git welcome had42!!
 git welcome had42!!
 git welcome had42!!
+=======
+aaaaaaaaaaaaaaaaa
+aaaaa
+aaaaa
+aaaa
+>>>>>>> test

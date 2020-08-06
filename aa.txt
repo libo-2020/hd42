@@ -17,4 +17,8 @@ aaaaaaaaaaaaaaaaa
 aaaaa
 aaaaa
 aaaa
+<<<<<<< HEAD
+>>>>>>> test
+=======
+aaaaaaaaaaa
 >>>>>>> test
